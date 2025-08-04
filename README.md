@@ -337,19 +337,7 @@ black .
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **MovieLens Dataset**: Provided by GroupLens Research
-- **PyTorch**: Deep learning framework
-- **FastAPI**: Modern web framework for APIs
-- **Streamlit**: Web app framework for data science
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Documentation**: [Wiki](https://github.com/your-repo/wiki)
-- **Email**: support@your-email.com
 
 ---
 
-**Made with ❤️ for the machine learning community** 
+**Always be Curious** 
