@@ -74,7 +74,7 @@ A state-of-the-art movie recommendation system built with Python, PyTorch, and a
 ### Quick Start
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/ujjwalredd/Movie-Recommendation-Engine.git
 cd movie-recommendation-engine
 
 # Install dependencies
